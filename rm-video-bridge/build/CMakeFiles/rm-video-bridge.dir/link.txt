@@ -1,0 +1,2 @@
+/usr/bin/ar qc librm-video-bridge.a CMakeFiles/rm-video-bridge.dir/Src/bridge.c.o CMakeFiles/rm-video-bridge.dir/Src/crc16.c.o CMakeFiles/rm-video-bridge.dir/Src/bridge_platform_stub.c.o
+/usr/bin/ranlib librm-video-bridge.a

@@ -1,0 +1,3 @@
+/home/lik/尝试1/hero-camera-agent/build/CMakeFiles/hero-camera-agent.dir
+/home/lik/尝试1/hero-camera-agent/build/CMakeFiles/edit_cache.dir
+/home/lik/尝试1/hero-camera-agent/build/CMakeFiles/rebuild_cache.dir

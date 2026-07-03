@@ -1,0 +1,2 @@
+/home/lik/尝试1/rm-custom-client/__cmake_systeminformation/CMakeFiles/edit_cache.dir
+/home/lik/尝试1/rm-custom-client/__cmake_systeminformation/CMakeFiles/rebuild_cache.dir

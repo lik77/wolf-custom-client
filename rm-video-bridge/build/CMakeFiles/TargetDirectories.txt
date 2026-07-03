@@ -1,0 +1,4 @@
+/home/lik/尝试1/rm-video-bridge/build/CMakeFiles/rm-video-bridge.dir
+/home/lik/尝试1/rm-video-bridge/build/CMakeFiles/rm-video-bridge-demo.dir
+/home/lik/尝试1/rm-video-bridge/build/CMakeFiles/edit_cache.dir
+/home/lik/尝试1/rm-video-bridge/build/CMakeFiles/rebuild_cache.dir

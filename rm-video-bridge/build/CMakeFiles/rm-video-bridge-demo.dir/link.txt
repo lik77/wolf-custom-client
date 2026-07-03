@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/rm-video-bridge-demo.dir/Src/main_template.c.o -o rm-video-bridge-demo  librm-video-bridge.a 

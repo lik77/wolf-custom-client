@@ -1,0 +1,4 @@
+/home/lik/尝试1/rm-custom-client/build/CMakeFiles/rm-custom-client.dir
+/home/lik/尝试1/rm-custom-client/build/CMakeFiles/edit_cache.dir
+/home/lik/尝试1/rm-custom-client/build/CMakeFiles/rebuild_cache.dir
+/home/lik/尝试1/rm-custom-client/build/CMakeFiles/rm-custom-client_autogen.dir

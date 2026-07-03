@@ -1,0 +1,7 @@
+syntax = "proto2";
+
+package rmproto;
+
+message CustomControl {
+  optional bytes data = 1;
+}
